@@ -1,0 +1,22 @@
+{
+  "name": "react-ecommerce",
+  "version": "1.0.0",
+  "description": "Backend server for react ecommerce store",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesstinSwadley/react-ecommerce.git"
+  },
+  "author": "Jesstin Swadley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesstinSwadley/react-ecommerce/issues"
+  },
+  "homepage": "https://github.com/JesstinSwadley/react-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
